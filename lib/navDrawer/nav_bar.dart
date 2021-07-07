@@ -31,7 +31,7 @@ class nav_bar extends StatelessWidget {
                             style: TextStyle(color: Colors.white, fontSize: 22),
                           )
                         : Text(
-                            "Side Menu",
+                            "Side Menu Bar",
                             style: TextStyle(color: Colors.white),
                           ),
                     _auth.currentUser != null
